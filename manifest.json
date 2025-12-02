@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "OpenPGP Alias Updater",
     "description": "Updates the OpenPGP Alias file from a server",
-    "version": "0.5",
+    "version": "0.6",
     "author": "Protection International",
     "applications": {
         "gecko": {
@@ -55,3 +55,4 @@
     }
   }
 }
+
